@@ -1,6 +1,6 @@
 # Mesuring GraalVM Performance
 
-This is a student project with the aim of measuring the performance of GraalVM on hundreds of Java opensource projects. This project at the moment only contains one project but will be populated with multiple other projects. 
+This is a student project with the aim of measuring the performance of GraalVM on multiple of Java opensource projects. 
 
 ## Folders and files
 **gradle-repos**: A file containing a list of ssh urls of opensource Gradle projects.
@@ -25,7 +25,7 @@ To run the tests you will need to do the following:
 
 1. Install maven and Gradle
 
-2. Install the JDKS that will be tested and place them in the jdks/ folder. Here is the jdks I got in my filder 
+2. Install the JDKS that will be tested and place there folders in the jdks/ folder. Here is the jdks I got in my filder 
 
 ```
 graalvm-ce-java11-21.0.0.2  graalvm-ee-java11-21.0.0.2  java-11-openjdk-amd64  jdk-11.0.10
